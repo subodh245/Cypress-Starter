@@ -5,3 +5,5 @@ things i learn
 
 3) I have wrote test cases for checking the form that if the email doesnt include ".com" then the invalid and the massage "sucessfully" or "invalid" should appear after clicking the submit button
 <img width="927" alt="emailformcheck" src="https://github.com/subodh245/Cypress-Starter/assets/118099441/a46e299a-d589-494f-92c9-e877807a5672">
+4) I learn about alises, exist command, not exist command and created the test case shown below
+5) ![alisescc1](https://github.com/subodh245/Cypress-Starter/assets/118099441/ea553029-3e60-4529-bce3-4e68acc26fc6)
