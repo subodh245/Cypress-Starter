@@ -7,4 +7,5 @@ things i learn
 <img width="927" alt="emailformcheck" src="https://github.com/subodh245/Cypress-Starter/assets/118099441/a46e299a-d589-494f-92c9-e877807a5672">
 4) I learn about alises, exist command, not exist command and created the test case shown below
 
-![alisescc1](https://github.com/subodh245/Cypress-Starter/assets/118099441/ea553029-3e60-4529-bce3-4e68acc26fc6)
+![best alises](https://github.com/subodh245/Cypress-Starter/assets/118099441/0a110dad-91c1-42a3-954c-5bd63e84c18a)
+
