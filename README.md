@@ -9,7 +9,7 @@ things i learn
 
 ![best alises](https://github.com/subodh245/Cypress-Starter/assets/118099441/0a110dad-91c1-42a3-954c-5bd63e84c18a)
 
-5) i have tested the example block of the website and to be precis I have commented what I have tested and attached the gif of the testing thankyou 
+5) i have tested the example block of the website and I have tested the grudges , to be precis I have commented what I have tested and attached the gif of the testing thankyou 
 <img width="1280" alt="example" src="https://github.com/subodh245/Cypress-Starter/assets/118099441/c344292f-012b-4f3b-8126-5021298591b6">
 ![example testinggif](https://github.com/subodh245/Cypress-Starter/assets/118099441/416252f2-b617-4718-a133-d022d3f344be)
 
