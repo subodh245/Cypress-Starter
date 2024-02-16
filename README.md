@@ -11,6 +11,7 @@ things i learn
 
 5) I have tested the example block of the website and I have tested the grudges , to be precis I have commented what I have tested and attached the gif of the testing thankyou 
 <img width="1280" alt="example" src="https://github.com/subodh245/Cypress-Starter/assets/118099441/c344292f-012b-4f3b-8126-5021298591b6">
+
 ![example testinggif](https://github.com/subodh245/Cypress-Starter/assets/118099441/416252f2-b617-4718-a133-d022d3f344be)
 
 6) I have tested the Accordion and in accordion testing I have tested if the text inside is visible or not before click and then i wrote test for testing after click
